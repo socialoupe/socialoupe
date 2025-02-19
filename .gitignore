@@ -1,0 +1,22 @@
+# Frontend (React.js)
+node_modules/
+build/
+.env
+
+# Backend (Python Flask)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Database
+*.sqlite3
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
